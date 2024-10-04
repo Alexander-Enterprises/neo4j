@@ -1,4 +1,4 @@
-domainId,domainId,enhanced_attributes,rel_type
+domainId_begin,domainId_end,enhanced_attributes,rel_type
 D001,D006,Prod_Tbl8_Field_11|Prod_Tbl9_Field_12|Prod_Tbl9_Field_14,permanent
 D002,D006,Prod_Tbl3_Field_6|Prod_Tbl4_Field_6|Prod_Tbl5_Field_2,permanent
 D003,D006,Prod_Tbl3_Field_7|Prod_Tbl4_Field_7|Prod_Tbl5_Field_3,permanent

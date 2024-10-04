@@ -1,4 +1,4 @@
-projectId,projectId,rel_type
+projectId_begin,projectId_end,rel_type
 P001,P003,temporary
 P002,P003,temporary
 P006,P004,temporary
