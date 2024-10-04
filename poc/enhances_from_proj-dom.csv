@@ -1,0 +1,11 @@
+projectId,domainId,enhanced_attributes,rel_type
+P004,D006,Prod_Tbl1_Field_1|Prod_Tbl2_Field_2|Prod_Tbl3_Field_3,temporary
+P005,D006,Prod_Tbl4_Field_4|Prod_Tbl5_Field_5|Prod_Tbl6_Field_6,temporary
+P006,D006,Prod_Tbl7_Field_7|Prod_Tbl8_Field_8|Prod_Tbl9_Field_9,temporary
+P007,D006,Prod_Tbl10_Field_10|Prod_Tbl11_Field_11|Prod_Tbl12_Field_12,temporary
+P008,D006,Prod_Tbl13_Field_13|Prod_Tbl14_Field_14|Prod_Tbl15_Field_15,temporary
+P009,D006,Prod_Tbl16_Field_3|Prod_Tbl16_Field_6|Prod_Tbl16_Field_9,temporary
+P010,D006,Prod_Tbl1_Field_20|Prod_Tbl2_Field_20|Prod_Tbl16_Field_20,temporary
+P011,D006,Prod_Tbl3_Field_1|Prod_Tbl3_Field_2|Prod_Tbl3_Field_10,temporary
+P012,D006,Prod_Tbl4_Field_3|Prod_Tbl5_Field_7|Prod_Tbl6_Field_13,temporary
+P013,D006,Prod_Tbl7_Field_2|Prod_Tbl7_Field_15|Prod_Tbl7_Field_16,temporary
