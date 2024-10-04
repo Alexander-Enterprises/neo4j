@@ -1,4 +1,4 @@
-domainID,name,owner,initial_maturity,current_maturity,target_maturity,status,createdOn,updatedOn,createdBy,updatedBy
+domainId,name,owner,initial_maturity,current_maturity,target_maturity,status,createdOn,updatedOn,createdBy,updatedBy
 D001,Product Source Data 1,Product Team,1,2,5,Active,9/19/2024,,herronald.alexander,
 D002,Product Source Data 2,Product Team,2,2,5,Active,9/19/2024,,herronald.alexander,
 D003,Product Source Data 3,Product Team,2,2,6,Active,9/19/2024,,herronald.alexander,
