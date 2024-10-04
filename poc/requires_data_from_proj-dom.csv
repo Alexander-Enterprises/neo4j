@@ -8,7 +8,6 @@ P002,D010,Faci_Tbl7_Field_4|Faci_Tbl14_Field_9,temporary
 P003,D005,Secu_Tbl13_Field_5|Secu_Tbl13_Field_13|Secu_Tbl15_Field_1,temporary
 P003,D007,Sale_Tbl4_Field_9|Sale_Tbl6_Field_3|Sale_Tbl10_Field_18,temporary
 P003,D006,Prod_Tbl4_Field_7|Prod_Tbl4_Field_10|Prod_Tbl4_Field_16,temporary
-P007,D001,PSD1_Tbl1_Field_3|PSD1_Tbl3_Field_3|PSD1_Tbl5_Field_3|PSD1_Tbl7_Field_3,temporary
 P008,D002,PSD2_Tbl2_Field_5|PSD2_Tbl4_Field_5|PSD2_Tbl6_Field_5|PSD2_Tbl8_Field_5,temporary
 P010,D003,PSD3_Tbl9_Field_1|PS3_Tbl10_Field_2|PSD3_Tbl11_Field_3|PSD3_Tbl12_Field_4,temporary
 P011,D004,PSD4_Tbl13_Field_14|PSD4_Tbl13_Field_15|PSD4_Tbl14_Field_16|PSD4_Tbl14_Field_17,temporary
