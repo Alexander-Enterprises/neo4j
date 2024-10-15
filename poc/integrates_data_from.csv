@@ -1,2 +1,2 @@
-projectId,domainId,integrated_attributes,rel_type
-P007,D001,PSD1_Tbl6_Field_3|PSD1_Tbl7_Field_4|PSD1_Tbl10_Field_10,temporary
+projectId,sourceId,integrated_attributes,rel_type
+P007,S001,PSD1_Tbl6_Field_3|PSD1_Tbl7_Field_4|PSD1_Tbl10_Field_10,temporary
