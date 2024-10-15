@@ -1,0 +1,12 @@
+sourceId,name,data_type,owner,provider,initial_maturity,current_maturity,target_maturity,status,createdOn,updatedOn,createdBy,updatedBy
+S001,Product Source Data 1,Source,Product Team,,1,2,5,Active,9/19/2024,,herronald.alexander,
+S002,Product Source Data 2,Source,Product Team,,2,2,5,Active,9/19/2024,,herronald.alexander,
+S003,Product Source Data 3,Source,Product Team,,2,2,6,Active,9/19/2024,,herronald.alexander,
+S004,Product Source Data 4,Source,Product Team,,2,2,5,Active,9/19/2024,,herronald.alexander,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
