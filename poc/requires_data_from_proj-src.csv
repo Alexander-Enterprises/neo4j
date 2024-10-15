@@ -1,0 +1,4 @@
+projectId,sourceId,req_attributes,rel_type
+P008,S002,PSD2_Tbl2_Field_5|PSD2_Tbl4_Field_5|PSD2_Tbl6_Field_5|PSD2_Tbl8_Field_5,temporary
+P010,S003,PSD3_Tbl9_Field_1|PS3_Tbl10_Field_2|PSD3_Tbl11_Field_3|PSD3_Tbl12_Field_4,temporary
+P011,S004,PSD4_Tbl13_Field_14|PSD4_Tbl13_Field_15|PSD4_Tbl14_Field_16|PSD4_Tbl14_Field_17,temporary
